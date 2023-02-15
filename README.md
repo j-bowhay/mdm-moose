@@ -1,6 +1,1 @@
-mdm
-=====
-
-"Fork mdm" to create a new MOOSE-based application.
-
-For more information see: [http://mooseframework.org/create-an-app/](http://mooseframework.org/create-an-app/)
+See `problems/disc.i` for the input file used the MDM Sagentia Innovation project.
